@@ -1,0 +1,12 @@
+a=2
+b=2
+c=8
+d=200
+a+=b
+e=b-d
+f=a*c
+g=d/b
+print(a)
+print(e)
+print(f)
+print(g)
